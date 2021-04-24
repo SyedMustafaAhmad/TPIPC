@@ -2,15 +2,15 @@
 ## Description
 <table>
   <tr>
-    <td>**Name**</td>
+    <th>Name</th>
     <td>Syed Mustafa Ahmed</td>
   </tr>
   <tr>
-    <td>**Dated:**/td>
+    <th>Dated:/th>
     <td>Hune, 2020</td>
   </tr>
   <tr>
-    <td>**For:**</td>
+    <th>For:</th>
     <td>Numerical Computing Assignment</td>
   </tr>
 </table>
