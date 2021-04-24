@@ -6,7 +6,7 @@
     <td>Syed Mustafa Ahmed</td>
   </tr>
   <tr>
-    <th>Dated:/th>
+    <th>Dated:</th>
     <td>Hune, 2020</td>
   </tr>
   <tr>
