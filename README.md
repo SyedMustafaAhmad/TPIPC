@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <th>For:</th>
-    <td>Numerical Computing Assignment</td>
+    <td>Numerical Computing</td>
   </tr>
 </table>
 
