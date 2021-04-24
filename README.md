@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <th>Dated:</th>
-    <td>Hune, 2020</td>
+    <td>June, 2020</td>
   </tr>
   <tr>
     <th>For:</th>
