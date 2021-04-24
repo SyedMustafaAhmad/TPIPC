@@ -1,9 +1,8 @@
 # TPIPC (Trajectory Prediction in Particle Colliders)
 ## Description
-| :---        | :---|
-| Name      | Syed Mustafa Ahmed|
-| For   | Numerical Computing Assignment|
-| Dated   | Hune, 2020|
+**Name:** Syed Mustafa Ahmed
+**Dated:** Hune, 2020
+**For:** Numerical Computing Assignment
 
 ## Abstract
 The Particle collider at CERN bombards particles close to the speed of light. This generates many subatomic particles and the 8 different particle detectors collect data about them throughout the process. This data is immense in size (25 petabytes per year) and thus bottlenecks the number of collisions the facility can perform in a given period of time.
